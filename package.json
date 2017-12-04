@@ -1,0 +1,18 @@
+{
+  "name": "sgames",
+  "version": "1.0.1",
+  "description": "test node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "author": "poonam.smiles@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "jasmine-core": "2.8.0",
+    "shrinkwrap": "^0.4.0",
+    "underscore": "1.8.3"
+  }
+}
